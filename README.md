@@ -1,5 +1,5 @@
 # ---Finally---
-I origionally published the post here (hhttps://blog.csdn.net/WildCatFish/article/details/116228950) (Chinese).
+I origionally published the post here (https://blog.csdn.net/WildCatFish/article/details/116228950) (Chinese).
 
 ---
 # ---Rank Results---
